@@ -1,0 +1,69 @@
+{
+  "ModId": "metaphor.chinese.font",
+  "ModName": "\u4EFF\u539F\u7248\u98CE\u683C\u4E2D\u6587\u5B57\u4F53mod",
+  "ModAuthor": "\u54C1\u6E38\u541B",
+  "ModVersion": "1.0.0",
+  "ModDescription": "chinese font mod",
+  "ModDll": "",
+  "ModIcon": "pinyou.png",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "metaphor.chinese.font.ReleaseMetadata.json",
+  "PluginData": {
+    "GitHubDependencies": {
+      "IdToConfigMap": {
+        "mrfpc.modloader": {
+          "Config": {
+            "UserName": "DeathChaos25",
+            "RepositoryName": "mrfpc.modloader",
+            "UseReleaseTag": true,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "mrfpc.modloader.ReleaseMetadata.json"
+        },
+        "reloaded.sharedlib.hooks": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "Reloaded.SharedLib.Hooks.ReloadedII",
+            "UseReleaseTag": true,
+            "AssetFileName": "reloaded.sharedlib.hooks.zip"
+          },
+          "ReleaseMetadataName": "Sewer56.Update.ReleaseMetadata.json"
+        },
+        "Reloaded.Memory.SigScan.ReloadedII": {
+          "Config": {
+            "UserName": "Reloaded-Project",
+            "RepositoryName": "Reloaded.Memory.SigScan",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "Reloaded.Memory.SigScan.ReloadedII.ReleaseMetadata.json"
+        },
+        "crifs.v2.hook": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "CriFs.V2.Hook.ReloadedII",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "CriFs.V2.Hook.ReleaseMetadata.json"
+        }
+      }
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "mrfpc.modloader"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "metaphor.exe"
+  ],
+  "ProjectUrl": "https://space.bilibili.com/38756774"
+}
