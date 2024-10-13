@@ -1,1 +1,2 @@
 仿日文原版的暗语幻想中文字体mod
+本MOD依赖于Reloaded-II MOD加载器以及前置MOD DeathChaos25/mrfpc.modloader
